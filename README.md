@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muyaostudio
 - 👀 I’m interested in Natural Language Processing (NLP)
-- 🌱 I’m currently learning NLG/PTM
-- 💞️ I’m looking to collaborate on Big Model
+- 💞️ I’m looking to collaborate on Large Language Model
 - 📫 Reach me by email
 
 <!---
